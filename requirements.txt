@@ -1,0 +1,7 @@
+Flask==3.0.3
+GitPython==3.1.43
+Markdown==3.6
+markdown2==2.4.13
+openai==1.31.1
+python-dotenv==1.0.1
+requests==2.31.0
